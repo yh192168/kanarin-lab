@@ -1,23 +1,15 @@
-# かなりん研究所 Version 1 Starter
+# かなりん研究所
 
-静的サイト骨格です。外部通信、AI自動公開、BBSバックエンドはまだ有効化していません。
-
-## ローカル起動
-
-```sh
-python3 -m http.server 8000
-```
-
-`http://localhost:8000/enter.html` を開きます。`file://` ではJSON取得が制限されるため、HTTPサーバーを使用してください。
+流れ星と古いパソコンが降る宇宙に存在する、2000年代風の個人Web基地。
 
 ## GitHub Pages
+Settings > Pages > Deploy from a branch で `main` / `(root)` を選択してください。
 
-リポジトリ直下へ内容を配置し、Settings > Pages でbranchを公開します。リンクは相対パスなのでProject Pagesでも動作します。
+## 現在の内容
+- レスポンシブな2000年代風レイアウト
+- 星、銀河、落下機器、クリック演出
+- 動きを止める設定と `prefers-reduced-motion` 対応
+- HOME、ABOUT、DIARY、STARLOG、HOBBY、LAB、倉庫などの基本ページ
 
-## 安全上の状態
-
-- AI自動公開: 無効
-- BBS/訪問帳/Web拍手: 閲覧用プレースホルダー
-- 外部API: 未接続
-- APIキー: なし
-- Animation: ボタンまたはprefers-reduced-motionで停止可能
+## 注意
+AI自動生成、Instagram、BBSなどの外部サービス連携はまだ接続していません。APIキーをリポジトリへ直接保存しないでください。
