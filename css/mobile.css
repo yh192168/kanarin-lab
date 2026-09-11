@@ -1,0 +1,1 @@
+@media(max-width:650px){.site-shell{width:calc(100% - 10px);margin:5px}.columns{grid-template-columns:1fr}.columns aside{order:0}.columns main{order:1}.columns aside ul{columns:2}.dashboard{grid-template-columns:1fr}.topnav{display:none}header h1{font-size:1.5rem}}@media(prefers-reduced-motion:reduce){*{animation:none!important;scroll-behavior:auto!important}}

@@ -1,0 +1,58 @@
+[
+  {
+    "title": "HOME",
+    "url": "/index.html"
+  },
+  {
+    "title": "ABOUT",
+    "url": "/about/"
+  },
+  {
+    "title": "DIARY",
+    "url": "/diary/"
+  },
+  {
+    "title": "STARLOG",
+    "url": "/diary/starlog/"
+  },
+  {
+    "title": "HOBBY",
+    "url": "/hobby/"
+  },
+  {
+    "title": "LAB",
+    "url": "/lab/"
+  },
+  {
+    "title": "倉庫",
+    "url": "/programming/"
+  },
+  {
+    "title": "PHOTO",
+    "url": "/photo/"
+  },
+  {
+    "title": "GALLERY",
+    "url": "/gallery/"
+  },
+  {
+    "title": "DOWNLOAD",
+    "url": "/download/"
+  },
+  {
+    "title": "LINK",
+    "url": "/links/"
+  },
+  {
+    "title": "COMMUNITY",
+    "url": "/community/"
+  },
+  {
+    "title": "HISTORY",
+    "url": "/history/"
+  },
+  {
+    "title": "SITE MAP",
+    "url": "/sitemap.html"
+  }
+]
